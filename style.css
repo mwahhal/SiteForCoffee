@@ -11,6 +11,9 @@
     height: 8vh;
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: darkgrey;
+    font-size: 32px;
+    font-family: sans-serif;
 }
 
 .header-line {
@@ -20,7 +23,7 @@
 }
 
 .nav-item {
-    color: crimson;
+    color: saddlebrown;
     text-decoration: none;
     margin-left: 120px;
 
@@ -32,6 +35,7 @@
 nav{
     width: 80%;
     height: 100%;
+
 }
 
 .logo{
